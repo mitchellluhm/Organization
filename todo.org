@@ -1,0 +1,279 @@
+* Week of Feb 26 ->
+** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-02-25 Sun 18:56]--[2018-02-25 Sun 19:57] =>  1:01
+   :END:
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+   - [ ] Read HW3
+** CSCI 3081W [1/3]
+   :LOGBOOK:
+   CLOCK: [2018-02-25 Sun 14:06]--[2018-02-25 Sun 15:15] =>  1:09 | Iter 1
+   CLOCK: [2018-02-25 Sun 11:29]--[2018-02-25 Sun 12:21] =>  0:52 | Iter 1
+   :END:
+   - [X] Lab
+   - [-] Iteration 1 (Preliminary Tests)
+     - [X] Work Time
+     - [X] Work Time
+     - [ ] Work Time
+   - [ ] Quiz
+     - [ ] Work Time
+     - [ ] Work Time
+     - [ ] Work Time
+** CSCI 4061 [0/2]
+   - [ ] Lab
+   - [ ] Midterm
+     - [ ] Work Time
+     - [ ] Work Time
+     - [ ] Work Time
+** STAT 3021 [0/1]
+   :LOGBOOK:
+   CLOCK: [2018-02-25 Sun 18:04]--[2018-02-25 Sun 18:53] =>  0:49
+   CLOCK: [2018-02-25 Sun 16:19]--[2018-02-25 Sun 16:58] =>  0:39
+   :END:
+   - [-] Quiz
+     - [X] Work Time : Sat Feb 24 | 45 mins
+     - [ ] Work Time
+     - [ ] Work Time
+** MUS  1013 [0/2]
+   - [ ] Exam M/C
+     - [ ] Work Time
+     - [ ] Work Time
+   - [ ] Exam Listen/Short Answer
+     - [ ] Work Time
+     - [ ] Work Time
+* Week of Mar 05 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] Iteration 1 Due
+   - [ ] Quiz
+** CSCI 4061 [/]
+   - [ ] Lab
+   - [ ] Assignment 2
+** STAT 3021 [/]
+   - [ ] Midterm
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] Response
+* Week of Mar 12 ->
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of Mar 19 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Quiz
+** CSCI 4061 [/]
+   - [ ] Lab
+** STAT 3021 [/]
+   - [ ] Practical Assignment Part 2
+** MUS  1013 [/]
+   - [ ] Response
+* Week of Mar 26 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] Lab
+** STAT 3021 [/]
+   - [ ] Quiz
+** MUS  1013 [/]
+   - [ ] Paper 2
+* Week of Apr 02 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Grade quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+** CSCI 4061 [/]
+   - [ ] Lab
+   - [ ] Assignment 3
+   - [ ] task
+** STAT 3021 [/]
+** MUS  1013 [/]
+   - [ ] Response
+* Week of Apr 09 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of Apr 16 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of Apr 23 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of Apr 30 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of May 07 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+* Week of May 14 ->
+** CSCI 2041 (TA) [0/3]
+   - [ ] Lab
+     - [ ] Read Lab
+   - [ ] Meeting
+   - [ ] Pass out quiz
+   - [ ] Office Hour
+     - [ ] Review
+** CSCI 3081W [0/3]
+   - [ ] Lab
+   - [ ] task
+   - [ ] task
+** CSCI 4061 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** STAT 3021 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+** MUS  1013 [/]
+   - [ ] task
+   - [ ] task
+   - [ ] task
+ 
