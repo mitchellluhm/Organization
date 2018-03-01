@@ -22,13 +22,16 @@
    - [X] Lab
    - [X] Iteration 1 (Preliminary Tests)
    - [ ] Quiz
-** CSCI 4061 [0/2]
+** CSCI 4061 [2/3]
    :LOGBOOK:
+   CLOCK: [2018-03-01 Thu 00:29]--[2018-03-01 Thu 00:37] =>  0:08
+   CLOCK: [2018-02-28 Wed 23:49]--[2018-03-01 Thu 00:07] =>  0:18
+   CLOCK: [2018-02-28 Wed 23:14]--[2018-02-28 Wed 23:41] =>  0:27
    CLOCK: [2018-02-28 Wed 16:28]--[2018-02-28 Wed 17:14] =>  0:46
    CLOCK: [2018-02-28 Wed 14:35]--[2018-02-28 Wed 15:58] =>  1:23
    :END:
-   - [ ] Lab
-   - [ ] Quiz
+   - [X] Lab
+   - [X] Quiz
    - [ ] Midterm
 ** STAT 3021 [0/1]
    :LOGBOOK:
@@ -43,13 +46,13 @@
    CLOCK: [2018-02-25 Sun 16:19]--[2018-02-25 Sun 16:58] =>  0:39
    :END:
    - [ ] Quiz
-** MUS  1013 [0/2]
+** MUS  1013 [1/2]
    :LOGBOOK:
    CLOCK: [2018-02-28 Wed 08:12]--[2018-02-28 Wed 08:22] =>  0:10
    CLOCK: [2018-02-27 Tue 10:49]--[2018-02-27 Tue 11:00] =>  0:11
    CLOCK: [2018-02-26 Mon 10:57]--[2018-02-26 Mon 11:46] =>  0:49
    :END:
-   - [ ] Exam M/C
+   - [X] Exam M/C
    - [ ] Exam Listen/Short Answer
 * Week of Mar 05 ->
 ** CSCI 2041 (TA) [0/3]
