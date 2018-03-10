@@ -65,7 +65,7 @@
    - [X] Exam M/C
    - [X] Exam Listen/Short Answer
 * Week of Mar 05 ->
-** CSCI 2041 (TA) [2/3]
+** CSCI 2041 (TA) [3/3]
   :LOGBOOK:
   CLOCK: [2018-03-09 Fri 15:29]--[2018-03-09 Fri 15:50] =>  0:21
   CLOCK: [2018-03-09 Fri 12:13]--[2018-03-09 Fri 14:43] =>  2:30
@@ -75,8 +75,8 @@
   - [X] Lab
     - [X] Read Lab
   - [X] Meeting
-  - [ ] Office Hour
-    - [ ] Review
+  - [X] Office Hour
+    - [X] Review
 ** CSCI 3081W [2/3]
    :LOGBOOK:
    CLOCK: [2018-03-06 Tue 21:46]--[2018-03-06 Tue 21:54] =>  0:08
@@ -103,7 +103,7 @@
    - [X] Lab
    - [X] Iteration 1 Due
    - [ ] Quiz
-** CSCI 4061 [0/2]
+** CSCI 4061 [1/2]
    :LOGBOOK:
    CLOCK: [2018-03-08 Thu 20:32]--[2018-03-08 Thu 21:18] =>  0:46
    CLOCK: [2018-03-08 Thu 19:08]--[2018-03-08 Thu 19:40] =>  0:32
@@ -113,7 +113,7 @@
    CLOCK: [2018-03-04 Sun 15:33]--[2018-03-04 Sun 16:07] =>  0:34
    :END:
    - [ ] Lab
-   - [ ] Assignment 2
+   - [X] Assignment 2
 ** STAT 3021 [1/1]
    :LOGBOOK:
 <<<<<<< HEAD
