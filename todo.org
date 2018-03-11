@@ -65,7 +65,7 @@
    - [X] Exam M/C
    - [X] Exam Listen/Short Answer
 * Week of Mar 05 ->
-** CSCI 2041 (TA) [2/3]
+** CSCI 2041 (TA) [3/3]
   :LOGBOOK:
   CLOCK: [2018-03-09 Fri 15:29]--[2018-03-09 Fri 15:50] =>  0:21
   CLOCK: [2018-03-09 Fri 12:13]--[2018-03-09 Fri 14:43] =>  2:30
@@ -75,9 +75,9 @@
   - [X] Lab
     - [X] Read Lab
   - [X] Meeting
-  - [ ] Office Hour
-    - [ ] Review
-** CSCI 3081W [2/3]
+  - [X] Office Hour
+    - [X] Review
+** CSCI 3081W [2/2]
    :LOGBOOK:
    CLOCK: [2018-03-06 Tue 21:46]--[2018-03-06 Tue 21:54] =>  0:08
    CLOCK: [2018-03-06 Tue 19:23]--[2018-03-06 Tue 20:26] =>  1:03
@@ -102,16 +102,18 @@
    :END:
    - [X] Lab
    - [X] Iteration 1 Due
-   - [ ] Quiz
-** CSCI 4061 [0/2]
+** CSCI 4061 [2/2]
    :LOGBOOK:
+   CLOCK: [2018-03-09 Fri 19:44]--[2018-03-09 Fri 20:12] =>  0:28
+   CLOCK: [2018-03-08 Thu 20:32]--[2018-03-08 Thu 21:18] =>  0:46
+   CLOCK: [2018-03-08 Thu 19:08]--[2018-03-08 Thu 19:40] =>  0:32
    CLOCK: [2018-03-08 Thu 12:30]--[2018-03-08 Thu 16:03] =>  3:33
    CLOCK: [2018-03-07 Wed 19:30]--[2018-03-08 Thu 02:16] =>  6:46
    CLOCK: [2018-03-04 Sun 16:34]--[2018-03-04 Sun 17:53] =>  1:19
    CLOCK: [2018-03-04 Sun 15:33]--[2018-03-04 Sun 16:07] =>  0:34
    :END:
-   - [ ] Lab
-   - [ ] Assignment 2
+   - [X] Lab
+   - [X] Assignment 2
 ** STAT 3021 [1/1]
    :LOGBOOK:
 <<<<<<< HEAD
@@ -133,11 +135,14 @@
 ** CSCI 2041 (TA) [2/3]
    :LOGBOOK:
    CLOCK: [2018-03-10 Sat 20:31]--[2018-03-10 Sat 22:59] =>  2:28
+   CLOCK: [2018-03-10 Sat 17:52]--[2018-03-10 Sat 18:38] =>  0:46
+   CLOCK: [2018-03-10 Sat 15:53]--[2018-03-10 Sat 17:48] =>  1:55
    :END:
+   - [X] HW3 Sample Grades for Mary
+   - [X] HW2 Wednesday
+   - [ ] HW3
 ** CSCI 3081W [0/3]
-   - [ ] Lab
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz (END OF SPRING BREAK?)
 ** CSCI 4061 [/]
    - [ ] task
    - [ ] task
