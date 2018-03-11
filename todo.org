@@ -130,6 +130,10 @@
    :END:
    - [X] Response
 * Week of Mar 12 ->
+** CSCI 2041 (TA) [2/3]
+   :LOGBOOK:
+   CLOCK: [2018-03-10 Sat 20:31]--[2018-03-10 Sat 22:59] =>  2:28
+   :END:
 ** CSCI 3081W [0/3]
    - [ ] Lab
    - [ ] task
