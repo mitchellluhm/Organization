@@ -163,13 +163,15 @@
    - [ ] Office Hour
      - [ ] Review
 ** CSCI 3081W [0/3]
+   - [ ] Lab (Tuesday 11:55 pm)
+   - [ ] Iteration 2 Design Document Draft (Thursday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
 ** STAT 3021 [/]
-   - [ ] Practical Assignment Part 2
+   - [ ] Practical Assignment Part 2 (Wednesday 10:00 pm)
 ** MUS  1013 [/]
-   - [ ] Response
+   - [ ] Response (Monday before class)
 * Week of Mar 26 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
@@ -179,6 +181,7 @@
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
+   - [ ] Iteration 2 Unit Tests (Thursday 11:55 pm)
    - [ ] task
    - [ ] task
 ** CSCI 4061 [/]
@@ -186,7 +189,7 @@
 ** STAT 3021 [/]
    - [ ] Quiz
 ** MUS  1013 [/]
-   - [ ] Paper 2
+   - [ ] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
@@ -197,6 +200,7 @@
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
+   - [ ] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
 ** CSCI 4061 [/]
    - [ ] Lab
    - [ ] Assignment 3
@@ -214,6 +218,7 @@
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
+   - [ ] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
    - [ ] task
    - [ ] task
 ** CSCI 4061 [/]
