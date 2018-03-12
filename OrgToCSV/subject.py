@@ -29,6 +29,18 @@ class Subject:
     def get_name(self):
         return self.name
 
+    def get_duration(self):
+        return self.duration
+
+    def get_times_studied(self):
+        return self.times_studied
+
+    def get_duration_by_day(self):
+        return self.duration_by_day
+
+    def get_times_studied_by_day(self):
+        return self.times_studied_by_day
+
     def increment_duration(self, dur):
         self.duration = self.duration + dur
 
