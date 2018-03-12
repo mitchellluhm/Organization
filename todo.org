@@ -144,17 +144,9 @@
 ** CSCI 3081W [0/3]
    - [ ] Quiz (END OF SPRING BREAK?)
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Watch Missed Lectures
 ** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
-** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Review Missed Lecture
 ** OrgToCSV
    :LOGBOOK:
    CLOCK: [2018-03-11 Sun 18:50]--[2018-03-11 Sun 20:24] =>  1:34
@@ -166,16 +158,22 @@
    - [ ] Meeting
    - [ ] Office Hour
      - [ ] Review
-** CSCI 3081W [0/3]
-   - [ ] Lab (Tuesday 11:55 pm)
+** CSCI 3081W [1/3]
+   :LOGBOOK:
+   CLOCK: [2018-03-12 Mon 15:38]--[2018-03-12 Mon 17:20] =>  1:42
+   :END:
+   - [X] Lab (Tuesday 11:55 pm)
    - [ ] Iteration 2 Design Document Draft (Thursday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
 ** STAT 3021 [/]
    - [ ] Practical Assignment Part 2 (Wednesday 10:00 pm)
-** MUS  1013 [/]
-   - [ ] Response (Monday before class)
+** MUS  1013 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-03-12 Mon 14:32]--[2018-03-12 Mon 15:11] =>  0:39
+   :END:
+   - [X] Response (Monday before class)
 * Week of Mar 26 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
