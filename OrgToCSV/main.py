@@ -15,14 +15,11 @@ def get_subject_name(name):
 
 
 def get_or_create_subject(name):
-    print("in get or create")
     if len(subjects) > 0:
         for sub in subjects:
             if name == sub.get_name():
-                print("Subject found")
                 return sub
 
-    print("Subject not found")
     new_subject = subject.Subject(name)
     subjects.append(new_subject)
     return new_subject
@@ -37,8 +34,16 @@ while len(line) > 0:
     if str.find(line, ":LOGBOOK:") > -1:
         # found a logbook
         subject_name = get_subject_name(last_line)
-
         subject_obj = get_or_create_subject(subject_name)
+
+        line = f.readline()
+        while str.find(line, ":END:") == -1:
+            # CLOCK: [yyyy-mm-dd Mon hh:mm]--[...] =>  1:15
+            start = str.find(line, "CLOCK")
+            if start > -1:
+                day_of_week = line[start + 19:start + 22]
+                print(day_of_week)
+            line = f.readline()
 
         print("Found a logbook")
 
