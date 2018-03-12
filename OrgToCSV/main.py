@@ -63,3 +63,11 @@ while len(line) > 0:
     last_line = line
     line = f.readline()
 f.close()
+
+print("----------------------")
+
+for sub in subjects:
+    print("Subject: " + sub.get_name())
+    print("Total time spent studying (hours): " + str(sub.get_duration() / 60))
+    print("Times studied: " + str(sub.get_times_studied()))
+    print("")
