@@ -26,6 +26,9 @@ class Subject:
         self.duration_by_day = [0, 0, 0, 0, 0, 0, 0]
         self.time_studied_by_day = [0, 0, 0, 0, 0, 0, 0]
 
+    def get_name(self):
+        return self.name
+
     def increment_duration(self, dur):
         self.duration = self.duration + dur
 
