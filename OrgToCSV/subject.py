@@ -13,6 +13,9 @@
 #            :LOGBOOK:
 #            CLOCK: [yyyy-mm-dd Dow hh:mm]--[yyyy-mm-dd Dow hh:mm] =>  1:15
 #            :END:
+#
+###############################################################################
+
 
 class Subject:
 
@@ -23,9 +26,44 @@ class Subject:
         self.duration_by_day = [0, 0, 0, 0, 0, 0, 0]
         self.time_studied_by_day = [0, 0, 0, 0, 0, 0, 0]
 
+    def increment_duration(self, dur):
+        self.duration = self.duration + dur
 
-c1 = Subject("CSCI 2041")
-c1.duration = 4
+    def increment_times_studied(self):
+        self.times_studied = self.times_studied + 1
 
-print(c1.name)
-print(c1.duration)
+    def get_day_index(self, day):
+        day_dictionary = {
+            'Mon': 0,
+            'Tue': 1,
+            'Wed': 2,
+            'Thu': 3,
+            'Fri': 4,
+            'Sat': 5,
+            'Sun': 6,
+        }
+
+        if day in day_dictionary:
+            return day_dictionary[day]
+        else:
+            print("Error in subject.py get_day_index:")
+            print("\t" + day + " was not found in day_dictionary.")
+            return -1
+
+    def increment_duration_day(self, dur, day):
+        day_index = self.get_day_index(day)
+        # TODO : error checking on day_index being -1
+        if day_index >= 0:
+            self.duration_by_day[day_index] += dur
+            print("Incremented duration by day")
+        else:
+            print("Did not increment duration by day")
+
+    def increment_times_studied_day(self, day):
+        day_index = self.get_day_index(day)
+        # TODO : error checking on day_index being -1
+        if day_index >= 0:
+            self.times_studied_by_day[day_index] += 1
+            print("Incremented times studied by day")
+        else:
+            print("Did not increment times studied by day")
