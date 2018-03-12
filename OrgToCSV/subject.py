@@ -24,7 +24,7 @@ class Subject:
         self.duration = 0
         self.times_studied = 0
         self.duration_by_day = [0, 0, 0, 0, 0, 0, 0]
-        self.time_studied_by_day = [0, 0, 0, 0, 0, 0, 0]
+        self.times_studied_by_day = [0, 0, 0, 0, 0, 0, 0]
 
     def get_name(self):
         return self.name
