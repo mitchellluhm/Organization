@@ -25,6 +25,11 @@ def get_or_create_subject(name):
     return new_subject
 
 
+def duration_to_minutes(dur):
+    hour = int(dur[0])
+    mins = int(dur[2:])
+    return (hour * 60) + mins
+
 # open todo.txt for reading
 f = open('todo.txt', 'r')
 line = f.readline()
@@ -42,6 +47,13 @@ while len(line) > 0:
             start = str.find(line, "CLOCK")
             if start > -1:
                 day_of_week = line[start + 19:start + 22]
+                dur_start = str.find(line, "=> ") + 4
+                duration = duration_to_minutes(line[dur_start:dur_start + 4])
+                subject_obj.increment_duration(duration)
+                subject_obj.increment_times_studied()
+                subject_obj.increment_duration_day(duration, day_of_week)
+                subject_obj.increment_times_studied_day(day_of_week)
+                print(duration)
                 print(day_of_week)
             line = f.readline()
 
