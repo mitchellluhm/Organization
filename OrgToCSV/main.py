@@ -49,21 +49,27 @@ while len(line) > 0:
                 day_of_week = line[start + 19:start + 22]
                 dur_start = str.find(line, "=> ") + 4
                 duration = duration_to_minutes(line[dur_start:dur_start + 4])
+
                 subject_obj.increment_duration(duration)
                 subject_obj.increment_times_studied()
                 subject_obj.increment_duration_day(duration, day_of_week)
                 subject_obj.increment_times_studied_day(day_of_week)
-                print(duration)
-                print(day_of_week)
+
+            # end if
+
             line = f.readline()
 
-        print("Found a logbook")
+        # end while
 
+    # end if
 
+    # read next line
     last_line = line
     line = f.readline()
+
 f.close()
 
+# print summary
 print("----------------------")
 
 for sub in subjects:

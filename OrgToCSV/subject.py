@@ -70,7 +70,6 @@ class Subject:
         # TODO : error checking on day_index being -1
         if day_index >= 0:
             self.duration_by_day[day_index] += dur
-            print("Incremented duration by day")
         else:
             print("Did not increment duration by day")
 
@@ -79,6 +78,5 @@ class Subject:
         # TODO : error checking on day_index being -1
         if day_index >= 0:
             self.times_studied_by_day[day_index] += 1
-            print("Incremented times studied by day")
         else:
             print("Did not increment times studied by day")
