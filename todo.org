@@ -134,6 +134,7 @@
 * Week of Mar 12 ->
 ** CSCI 2041 (TA) [2/3]
    :LOGBOOK:
+   CLOCK: [2018-03-15 Thu 13:07]--[2018-03-15 Thu 15:11] =>  2:04
    CLOCK: [2018-03-14 Wed 23:23]--[2018-03-14 Wed 23:49] =>  0:26
    CLOCK: [2018-03-14 Wed 18:01]--[2018-03-14 Wed 18:36] =>  0:35
    CLOCK: [2018-03-14 Wed 16:00]--[2018-03-14 Wed 17:46] =>  1:46
@@ -176,6 +177,9 @@
 ** CSCI 4061 [/]
    - [ ] Lab
 ** STAT 3021 [/]
+   :LOGBOOK:
+   CLOCK: [2018-03-15 Thu 16:05]--[2018-03-15 Thu 16:46] =>  0:41
+   :END:
    - [ ] Practical Assignment Part 2 (Wednesday 10:00 pm)
 ** MUS  1013 [1/1]
    :LOGBOOK:
