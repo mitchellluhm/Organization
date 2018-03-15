@@ -1,3 +1,18 @@
+###############################################################################
+# main.py
+#
+# TODOs:
+# 1) Prompt user for input .org file
+#    - use python os.system to cat into a .txt file
+# 2) DateEvent
+# 3) DayEvent
+#
+# Stats (longet study event last week, most study events all time, etc)
+# -d (specific day) -w (weekly report) -m (monthly report) -y (yearly report)
+# -a (all time)
+#
+###############################################################################
+
 import subject
 
 subjects = []
@@ -30,6 +45,7 @@ def duration_to_minutes(dur):
     mins = int(dur[2:])
     return (hour * 60) + mins
 
+
 # open todo.txt for reading
 f = open('todo.txt', 'r')
 line = f.readline()
@@ -48,6 +64,7 @@ while len(line) > 0:
             if start > -1:
                 day_of_week = line[start + 19:start + 22]
                 dur_start = str.find(line, "=> ") + 4
+                print(line[dur_start:dur_start + 4])
                 duration = duration_to_minutes(line[dur_start:dur_start + 4])
 
                 subject_obj.increment_duration(duration)
