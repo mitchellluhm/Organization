@@ -168,6 +168,9 @@
    :END:
 * Week of Mar 19 ->
 ** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-03-19 Mon 16:22]--[2018-03-19 Mon 17:01] =>  0:39
+   :END:
    - [ ] Lab
      - [ ] Read Lab
    - [ ] Meeting
@@ -181,13 +184,16 @@
    - [X] Lab (Tuesday 11:55 pm)
    - [ ] Iteration 2 Design Document Draft (Thursday 11:55 pm)
    - [ ] Quiz
-** CSCI 4061 [/]
-   - [ ] Lab
-** STAT 3021 [/]
+** CSCI 4061 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-03-19 Mon 13:59]--[2018-03-19 Mon 15:13] =>  1:14
+   :END:
+   - [X] Lab
+** STAT 3021 [1/1]
    :LOGBOOK:
    CLOCK: [2018-03-15 Thu 16:05]--[2018-03-15 Thu 16:46] =>  0:41
    :END:
-   - [ ] Practical Assignment Part 2 (Wednesday 10:00 pm)
+   - [X] Practical Assignment Part 2 (Wednesday 10:00 pm)
 ** MUS  1013 [1/1]
    :LOGBOOK:
    CLOCK: [2018-03-12 Mon 14:32]--[2018-03-12 Mon 15:11] =>  0:39
