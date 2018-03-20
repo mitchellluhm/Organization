@@ -152,8 +152,6 @@
    - [X] HW3 Sample Grades for Mary
    - [X] HW2 Wednesday
    - [X] HW3
-** CSCI 3081W [0/3]
-   - [ ] Quiz (END OF SPRING BREAK?)
 ** CSCI 4061 [/]
    :LOGBOOK:
    CLOCK: [2018-03-18 Sun 15:18]--[2018-03-18 Sun 16:11] =>  0:53
@@ -210,12 +208,11 @@
 ** CSCI 3081W [0/3]
    - [ ] Lab
    - [ ] Iteration 2 Unit Tests (Thursday 11:55 pm)
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
 ** STAT 3021 [/]
-   - [ ] Quiz
+   - [ ] Quiz (Wednesday)
 ** MUS  1013 [/]
    - [ ] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
@@ -229,11 +226,9 @@
 ** CSCI 3081W [0/3]
    - [ ] Lab
    - [ ] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
+   - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
-   - [ ] Assignment 3
-   - [ ] task
-** STAT 3021 [/]
 ** MUS  1013 [/]
    - [ ] Response
 * Week of Apr 09 ->
@@ -247,20 +242,14 @@
 ** CSCI 3081W [0/3]
    - [ ] Lab
    - [ ] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Lab
+   - [ ] Programming Assignment 3 (Wednesday)
 ** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz (Wednesday)
 ** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Response
 * Week of Apr 16 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
@@ -271,44 +260,30 @@
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
-** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Lab
+   - [ ] Midterm (Tuesday)
 ** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Paper 3 (Monday)
 * Week of Apr 23 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
      - [ ] Read Lab
    - [ ] Meeting
-   - [ ] Pass out quiz
+   - [ ] Pass out quiz (Friday 4:05 pm)
    - [ ] Office Hour
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
-   - [ ] task
-   - [ ] task
+   - [ ] Iteration 3 Preliminary Code Tests (Tuesday)
+   - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Lab
 ** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Quiz (Wednesday)
 ** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Response
 * Week of Apr 30 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
@@ -319,68 +294,23 @@
      - [ ] Review
 ** CSCI 3081W [0/3]
    - [ ] Lab
-   - [ ] task
-   - [ ] task
+   - [ ] Iteration 3 Final Code Submission (Tuesday)
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Lab
 ** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Practical Assignment Part 3 (Wednesday)
 ** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Exam (Wednesday)
+   - [ ] Exam (Friday)
 * Week of May 07 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
      - [ ] Read Lab
    - [ ] Meeting
-   - [ ] Pass out quiz
-   - [ ] Office Hour
-     - [ ] Review
-** CSCI 3081W [0/3]
-   - [ ] Lab
-   - [ ] task
-   - [ ] task
+   - [ ] Final Exam (Tuesday 10:30 am)
+   - [ ] Final Exam (Wednesday 10:30 am)
 ** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Final (Tuesday 8:00-10:00 am)
 ** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
-** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
+   - [ ] Final Exam (Thursday 4:00-6:00 pm)
 * Week of May 14 ->
-** CSCI 2041 (TA) [0/3]
-   - [ ] Lab
-     - [ ] Read Lab
-   - [ ] Meeting
-   - [ ] Pass out quiz
-   - [ ] Office Hour
-     - [ ] Review
-** CSCI 3081W [0/3]
-   - [ ] Lab
-   - [ ] task
-   - [ ] task
-** CSCI 4061 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
-** STAT 3021 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
-** MUS  1013 [/]
-   - [ ] task
-   - [ ] task
-   - [ ] task
- 
-
-
