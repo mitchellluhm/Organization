@@ -132,7 +132,7 @@
    :END:
    - [X] Response
 * Week of Mar 12 ->
-** CSCI 2041 (TA) [2/3]
+** CSCI 2041 (TA) [3/3]
    :LOGBOOK:
    CLOCK: [2018-03-18 Sun 18:31]--[2018-03-18 Sun 19:51] =>  1:20
    CLOCK: [2018-03-17 Sat 13:03]--[2018-03-17 Sat 13:34] =>  0:31
@@ -151,7 +151,7 @@
    :END:
    - [X] HW3 Sample Grades for Mary
    - [X] HW2 Wednesday
-   - [ ] HW3
+   - [X] HW3
 ** CSCI 3081W [0/3]
    - [ ] Quiz (END OF SPRING BREAK?)
 ** CSCI 4061 [/]
@@ -169,6 +169,7 @@
 * Week of Mar 19 ->
 ** CSCI 2041 (TA) [0/3]
    :LOGBOOK:
+   CLOCK: [2018-03-19 Mon 19:27]--[2018-03-19 Mon 20:38] =>  1:11
    CLOCK: [2018-03-19 Mon 16:22]--[2018-03-19 Mon 17:01] =>  0:39
    :END:
    - [ ] Lab
