@@ -209,12 +209,13 @@
    - [ ] Lab
 ** STAT 3021 [/]
    - [ ] Quiz (Wednesday)
-** MUS  1013 [/]
+** MUS  1013 [1/1]
    :LOGBOOK:
+   CLOCK: [2018-03-24 Sat 15:54]--[2018-03-24 Sat 17:56] =>  2:02
    CLOCK: [2018-03-24 Sat 12:47]--[2018-03-24 Sat 13:42] =>  0:55
    CLOCK: [2018-03-22 Thu 16:21]--[2018-03-22 Thu 17:43] =>  1:22
    :END:
-   - [ ] Paper 2 (Monday 12:20 pm)
+   - [X] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
