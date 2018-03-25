@@ -208,6 +208,9 @@
 ** CSCI 4061 [/]
    - [ ] Lab
 ** STAT 3021 [/]
+   :LOGBOOK:
+   CLOCK: [2018-03-25 Sun 16:05]--[2018-03-25 Sun 18:17] =>  2:12
+   :END:
    - [ ] Quiz (Wednesday)
 ** MUS  1013 [1/1]
    :LOGBOOK:
