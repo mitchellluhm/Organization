@@ -198,6 +198,9 @@
    - [X] Response (Monday before class)
 * Week of Mar 26 ->
 ** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-03-26 Mon 17:05]--[2018-03-26 Mon 18:15] =>  1:10
+   :END:
    - [ ] Lab
    - [ ] Meeting
    - [ ] Office Hour
@@ -206,6 +209,10 @@
    - [ ] Iteration 2 Unit Tests (Thursday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
+   :LOGBOOK:
+   CLOCK: [2018-03-26 Mon 16:48]--[2018-03-26 Mon 17:01] =>  0:13
+   CLOCK: [2018-03-26 Mon 14:22]--[2018-03-26 Mon 15:20] =>  0:58
+   :END:
    - [ ] Lab
 ** STAT 3021 [/]
    :LOGBOOK:
