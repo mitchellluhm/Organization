@@ -194,7 +194,7 @@
    :END:
    - [X] Response (Monday before class)
 * Week of Mar 26 ->
-** CSCI 2041 (TA) [1/3]
+** CSCI 2041 (TA) [2/3]
    :LOGBOOK:
    CLOCK: [2018-03-27 Tue 23:42]--[2018-03-28 Wed 00:22] =>  0:40
    CLOCK: [2018-03-27 Tue 16:02]--[2018-03-27 Tue 16:23] =>  0:21
@@ -203,7 +203,7 @@
    CLOCK: [2018-03-26 Mon 17:05]--[2018-03-26 Mon 18:15] =>  1:10
    :END:
    - [X] Lab
-   - [ ] Meeting
+   - [X] Meeting
    - [ ] Office Hour
 ** CSCI 3081W [1/3]
    - [X] Lab
@@ -217,6 +217,7 @@
    - [X] Lab
 ** STAT 3021 [/]
    :LOGBOOK:
+   CLOCK: [2018-03-28 Wed 10:04]--[2018-03-28 Wed 10:47] =>  0:43
    CLOCK: [2018-03-28 Wed 01:12]--[2018-03-28 Wed 02:04] =>  0:52
    CLOCK: [2018-03-27 Tue 22:51]--[2018-03-27 Tue 23:42] =>  0:51
    CLOCK: [2018-03-27 Tue 12:06]--[2018-03-27 Tue 13:48] =>  1:42
