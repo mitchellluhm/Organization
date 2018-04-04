@@ -194,7 +194,7 @@
    :END:
    - [X] Response (Monday before class)
 * Week of Mar 26 ->
-** CSCI 2041 (TA) [2/3]
+** CSCI 2041 (TA) [3/3]
    :LOGBOOK:
    CLOCK: [2018-03-30 Fri 13:58]--[2018-03-30 Fri 14:52] =>  0:54
    CLOCK: [2018-03-30 Fri 11:15]--[2018-03-30 Fri 13:13] =>  1:58
@@ -206,9 +206,10 @@
    :END:
    - [X] Lab
    - [X] Meeting
-   - [ ] Office Hour
-** CSCI 3081W [2/3]
+   - [X] Office Hour
+** CSCI 3081W [3/3]
    :LOGBOOK:
+   CLOCK: [2018-04-01 Sun 20:01]--[2018-04-01 Sun 20:34] =>  0:33
    CLOCK: [2018-03-29 Thu 19:33]--[2018-03-29 Thu 20:57] =>  1:24
    CLOCK: [2018-03-29 Thu 16:07]--[2018-03-29 Thu 18:54] =>  2:47
    CLOCK: [2018-03-29 Thu 13:55]--[2018-03-29 Thu 14:23] =>  0:28
@@ -220,7 +221,7 @@
    :END:
    - [X] Lab
    - [X] Iteration 2 Unit Tests (Thursday 11:55 pm)
-   - [ ] Quiz
+   - [X] Quiz
 ** CSCI 4061 [1/1]
    :LOGBOOK:
    CLOCK: [2018-03-26 Mon 16:48]--[2018-03-26 Mon 17:01] =>  0:13
@@ -253,13 +254,20 @@
    - [ ] Grade quiz
    - [ ] Office Hour
 ** CSCI 3081W [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-01 Sun 23:41]--[2018-04-02 Mon 00:47] =>  1:06
+   CLOCK: [2018-04-01 Sun 21:29]--[2018-04-01 Sun 22:27] =>  0:58
+   :END:
    - [ ] Lab
    - [ ] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
-** MUS  1013 [/]
-   - [ ] Response
+** MUS  1013 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-04-01 Sun 20:51]--[2018-04-01 Sun 21:14] =>  0:23
+   :END:
+   - [X] Response
 * Week of Apr 09 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
