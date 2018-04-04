@@ -248,11 +248,24 @@
    - [X] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
 ** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-03 Tue 15:37]--[2018-04-03 Tue 16:05] =>  0:28
+   CLOCK: [2018-04-03 Tue 12:19]--[2018-04-03 Tue 13:24] =>  1:05
+   CLOCK: [2018-04-02 Mon 23:23]--[2018-04-03 Tue 00:23] =>  1:00
+   CLOCK: [2018-04-02 Mon 16:24]--[2018-04-02 Mon 17:51] =>  1:27
+   CLOCK: [2018-04-02 Mon 14:57]--[2018-04-02 Mon 15:10] =>  0:13
+   :END:
    - [ ] Lab
    - [ ] Meeting
    - [ ] Grade quiz
    - [ ] Office Hour
 ** CSCI 3081W [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-03 Tue 13:36]--[2018-04-03 Tue 14:07] =>  0:31
+   CLOCK: [2018-04-03 Tue 10:39]--[2018-04-03 Tue 11:27] =>  0:48
+   CLOCK: [2018-04-02 Mon 15:10]--[2018-04-02 Mon 15:34] =>  0:24
+   CLOCK: [2018-04-02 Mon 14:08]--[2018-04-02 Mon 14:53] =>  0:45
+   :END:
    - [ ] Lab
    - [ ] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
    - [ ] Quiz
