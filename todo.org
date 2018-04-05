@@ -248,7 +248,7 @@
    :END:
    - [X] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
-** CSCI 2041 (TA) [1/4]
+** CSCI 2041 (TA) [2/4]
    :LOGBOOK:
    CLOCK: [2018-04-03 Tue 15:37]--[2018-04-03 Tue 16:05] =>  0:28
    CLOCK: [2018-04-03 Tue 12:19]--[2018-04-03 Tue 13:24] =>  1:05
@@ -257,11 +257,13 @@
    CLOCK: [2018-04-02 Mon 14:57]--[2018-04-02 Mon 15:10] =>  0:13
    :END:
    - [X] Lab
-   - [ ] Meeting
+   - [X] Meeting
    - [ ] Grade quiz
    - [ ] Office Hour
-** CSCI 3081W [0/3]
+** CSCI 3081W [2/3]
    :LOGBOOK:
+   CLOCK: [2018-04-05 Thu 12:16]--[2018-04-05 Thu 12:33] =>  0:17
+   CLOCK: [2018-04-04 Wed 13:52]--[2018-04-04 Wed 14:12] =>  0:20
    CLOCK: [2018-04-03 Tue 19:45]--[2018-04-03 Tue 20:17] =>  0:32
    CLOCK: [2018-04-03 Tue 13:36]--[2018-04-03 Tue 14:07] =>  0:31
    CLOCK: [2018-04-03 Tue 10:39]--[2018-04-03 Tue 11:27] =>  0:48
@@ -270,11 +272,18 @@
    CLOCK: [2018-04-01 Sun 23:41]--[2018-04-02 Mon 00:47] =>  1:06
    CLOCK: [2018-04-01 Sun 21:29]--[2018-04-01 Sun 22:27] =>  0:58
    :END:
-   - [ ] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
-   - [ ] Exercise
+   - [X] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
+   - [X] Exercise
    - [ ] Quiz
-** CSCI 4061 [/]
-   - [ ] Lab
+** CSCI 4061 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-04-05 Thu 12:39]--[2018-04-05 Thu 13:31] =>  0:52
+   CLOCK: [2018-04-04 Wed 22:52]--[2018-04-05 Thu 00:13] =>  1:21
+   CLOCK: [2018-04-04 Wed 19:04]--[2018-04-04 Wed 21:47] =>  2:43
+   CLOCK: [2018-04-04 Wed 17:18]--[2018-04-04 Wed 18:32] =>  1:14
+   CLOCK: [2018-04-04 Wed 14:21]--[2018-04-04 Wed 15:38] =>  1:17
+   :END:
+   - [X] Lab
 ** MUS  1013 [1/1]
    :LOGBOOK:
    CLOCK: [2018-04-01 Sun 20:51]--[2018-04-01 Sun 21:14] =>  0:23
