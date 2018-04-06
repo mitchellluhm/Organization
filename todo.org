@@ -260,7 +260,7 @@
    - [X] Meeting
    - [ ] Grade quiz
    - [ ] Office Hour
-** CSCI 3081W [2/3]
+** CSCI 3081W [3/3]
    :LOGBOOK:
    CLOCK: [2018-04-05 Thu 12:16]--[2018-04-05 Thu 12:33] =>  0:17
    CLOCK: [2018-04-04 Wed 13:52]--[2018-04-04 Wed 14:12] =>  0:20
@@ -274,9 +274,12 @@
    :END:
    - [X] Iteration 2 Preliminary Code Submission (Tuesday 11:55 pm)
    - [X] Exercise
-   - [ ] Quiz
+   - [X] Quiz
 ** CSCI 4061 [1/1]
    :LOGBOOK:
+   CLOCK: [2018-04-05 Thu 21:18]--[2018-04-05 Thu 23:18] =>  2:00
+   CLOCK: [2018-04-05 Thu 17:25]--[2018-04-05 Thu 18:23] =>  0:58
+   CLOCK: [2018-04-05 Thu 17:01]--[2018-04-05 Thu 17:13] =>  0:12
    CLOCK: [2018-04-05 Thu 12:39]--[2018-04-05 Thu 13:31] =>  0:52
    CLOCK: [2018-04-04 Wed 22:52]--[2018-04-05 Thu 00:13] =>  1:21
    CLOCK: [2018-04-04 Wed 19:04]--[2018-04-04 Wed 21:47] =>  2:43
