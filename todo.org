@@ -248,7 +248,7 @@
    :END:
    - [X] Paper 2 (Monday 12:20 pm)
 * Week of Apr 02 ->
-** CSCI 2041 (TA) [2/4]
+** CSCI 2041 (TA) [4/4]
    :LOGBOOK:
    CLOCK: [2018-04-06 Fri 12:47]--[2018-04-06 Fri 20:18] =>  7:31
    CLOCK: [2018-04-03 Tue 15:37]--[2018-04-03 Tue 16:05] =>  0:28
@@ -259,8 +259,8 @@
    :END:
    - [X] Lab
    - [X] Meeting
-   - [ ] Grade quiz
-   - [ ] Office Hour
+   - [X] Grade quiz
+   - [X] Office Hour
 ** CSCI 3081W [3/3]
    :LOGBOOK:
    CLOCK: [2018-04-05 Thu 12:16]--[2018-04-05 Thu 12:33] =>  0:17
@@ -295,6 +295,11 @@
    - [X] Response
 * Week of Apr 09 ->
 ** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-07 Sat 15:17]--[2018-04-07 Sat 16:17] =>  1:00
+   CLOCK: [2018-04-07 Sat 12:53]--[2018-04-07 Sat 14:43] =>  1:50
+   :END:
+   - [ ] Grade Hwk_05
    - [ ] Lab
    - [ ] Meeting
    - [ ] Pass out quiz
