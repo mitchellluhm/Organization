@@ -300,7 +300,10 @@
    - [ ] Pass out quiz
    - [ ] Office Hour
 ** CSCI 3081W [0/3]
-   - [ ] Lab
+   :LOGBOOK:
+   CLOCK: [2018-04-07 Sat 20:13]--[2018-04-07 Sat 20:33] =>  0:20
+   CLOCK: [2018-04-07 Sat 19:12]--[2018-04-07 Sat 19:48] =>  0:36
+   :END:
    - [ ] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
@@ -308,8 +311,11 @@
    - [ ] Programming Assignment 3 (Wednesday)
 ** STAT 3021 [/]
    - [ ] Quiz (Wednesday)
-** MUS  1013 [/]
-   - [ ] Response
+** MUS  1013 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-04-07 Sat 19:49]--[2018-04-07 Sat 20:10] =>  0:21
+   :END:
+   - [X] Response
 * Week of Apr 16 ->
 ** Registration Fall 2018 April 18th
 ** CSCI 2041 (TA) [0/3]
