@@ -294,12 +294,12 @@
    :END:
    - [X] Response
 * Week of Apr 09 ->
-** CSCI 2041 (TA) [0/3]
+** CSCI 2041 (TA) [1/5]
    :LOGBOOK:
    CLOCK: [2018-04-07 Sat 15:17]--[2018-04-07 Sat 16:17] =>  1:00
    CLOCK: [2018-04-07 Sat 12:53]--[2018-04-07 Sat 14:43] =>  1:50
    :END:
-   - [ ] Grade Hwk_05
+   - [X] Grade Hwk_05
    - [ ] Lab
    - [ ] Meeting
    - [ ] Pass out quiz
