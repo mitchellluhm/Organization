@@ -306,12 +306,20 @@
    - [ ] Office Hour
 ** CSCI 3081W [0/3]
    :LOGBOOK:
+   CLOCK: [2018-04-08 Sun 16:15]--[2018-04-08 Sun 16:35] =>  0:20
+   CLOCK: [2018-04-08 Sun 15:33]--[2018-04-08 Sun 16:08] =>  0:35
+   CLOCK: [2018-04-08 Sun 13:24]--[2018-04-08 Sun 14:42] =>  1:18
+   CLOCK: [2018-04-07 Sat 22:12]--[2018-04-07 Sat 22:41] =>  0:29
    CLOCK: [2018-04-07 Sat 20:13]--[2018-04-07 Sat 20:33] =>  0:20
    CLOCK: [2018-04-07 Sat 19:12]--[2018-04-07 Sat 19:48] =>  0:36
    :END:
    - [ ] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
+   :LOGBOOK:
+   CLOCK: [2018-04-08 Sun 22:27]--[2018-04-08 Sun 23:52] =>  1:25
+   CLOCK: [2018-04-08 Sun 20:33]--[2018-04-08 Sun 21:31] =>  0:58
+   :END:
    - [ ] Lab
    - [ ] Programming Assignment 3 (Wednesday)
 ** STAT 3021 [/]
