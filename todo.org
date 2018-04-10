@@ -302,12 +302,13 @@
    CLOCK: [2018-04-07 Sat 12:53]--[2018-04-07 Sat 14:43] =>  1:50
    :END:
    - [X] Grade Hwk_05
-   - [ ] Lab
-   - [ ] Meeting
-   - [ ] Pass out quiz
-   - [ ] Office Hour
-** CSCI 3081W [0/3]
+   - [ ] Lab (Tuesday)
+   - [ ] Meeting (Wednesday)
+   - [ ] Grade Quiz (Friday)
+   - [ ] Office Hour (Friday)
+** CSCI 3081W [1/2]
    :LOGBOOK:
+   CLOCK: [2018-04-10 Tue 10:11]--[2018-04-10 Tue 10:44] =>  0:33
    CLOCK: [2018-04-09 Mon 22:25]--[2018-04-10 Tue 00:25] =>  2:00
    CLOCK: [2018-04-09 Mon 18:34]--[2018-04-09 Mon 20:14] =>  1:40
    CLOCK: [2018-04-09 Mon 15:33]--[2018-04-09 Mon 15:48] =>  0:15
@@ -319,32 +320,36 @@
    CLOCK: [2018-04-07 Sat 20:13]--[2018-04-07 Sat 20:33] =>  0:20
    CLOCK: [2018-04-07 Sat 19:12]--[2018-04-07 Sat 19:48] =>  0:36
    :END:
-   - [ ] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
+   - [X] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
    - [ ] Quiz
 ** CSCI 4061 [/]
    :LOGBOOK:
+   CLOCK: [2018-04-10 Tue 12:02]--[2018-04-10 Tue 13:10] =>  1:08
    CLOCK: [2018-04-09 Mon 13:24]--[2018-04-09 Mon 14:04] =>  0:40
    CLOCK: [2018-04-08 Sun 22:27]--[2018-04-08 Sun 23:52] =>  1:25
    CLOCK: [2018-04-08 Sun 20:33]--[2018-04-08 Sun 21:31] =>  0:58
    :END:
-   - [ ] Lab
+   - [ ] Lab (Wednesday)
    - [ ] Programming Assignment 3 (Wednesday)
 ** STAT 3021 [/]
+   :LOGBOOK:
+   CLOCK: [2018-04-10 Tue 13:42]--[2018-04-10 Tue 14:00] =>  0:18
+   :END:
    - [ ] Quiz (Wednesday)
 ** MUS  1013 [1/1]
    :LOGBOOK:
    CLOCK: [2018-04-07 Sat 19:49]--[2018-04-07 Sat 20:10] =>  0:21
    :END:
-   - [X] Response
+   - [X] Response (Monday)
 * Week of Apr 16 ->
 ** Registration Fall 2018 April 18th
 ** CSCI 2041 (TA) [0/3]
-   - [ ] Lab
-   - [ ] Meeting
-   - [ ] Pass out quiz
-   - [ ] Office Hour
+   - [ ] Lab (Tuesday)
+   - [ ] Meeting (Wednesday)
+   - [ ] Grade Quiz (Friday)
+   - [ ] Office Hour (Friday)
 ** CSCI 3081W [0/3]
-   - [ ] Lab
+   - [ ] Lab (Monday)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
@@ -362,11 +367,11 @@
    - [ ] Iteration 3 Preliminary Code Tests (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] Lab
+   - [ ] Lab (Wednesda)
 ** STAT 3021 [/]
    - [ ] Quiz (Wednesday)
 ** MUS  1013 [/]
-   - [ ] Response
+   - [ ] Response (Monday)
 * Week of Apr 30 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
