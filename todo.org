@@ -294,7 +294,7 @@
    :END:
    - [X] Response
 * Week of Apr 09 ->
-** CSCI 2041 (TA) [1/5]
+** CSCI 2041 (TA) [3/5]
    :LOGBOOK:
    CLOCK: [2018-04-09 Mon 17:12]--[2018-04-09 Mon 17:52] =>  0:40
    CLOCK: [2018-04-09 Mon 14:11]--[2018-04-09 Mon 14:35] =>  0:24
@@ -302,8 +302,8 @@
    CLOCK: [2018-04-07 Sat 12:53]--[2018-04-07 Sat 14:43] =>  1:50
    :END:
    - [X] Grade Hwk_05
-   - [ ] Lab (Tuesday)
-   - [ ] Meeting (Wednesday)
+   - [X] Lab (Tuesday)
+   - [X] Meeting (Wednesday)
    - [ ] Grade Quiz (Friday)
    - [ ] Office Hour (Friday)
 ** CSCI 3081W [1/2]
@@ -324,6 +324,7 @@
    - [ ] Quiz
 ** CSCI 4061 [/]
    :LOGBOOK:
+   CLOCK: [2018-04-11 Wed 13:31]--[2018-04-11 Wed 15:15] =>  1:44
    CLOCK: [2018-04-10 Tue 21:12]--[2018-04-10 Tue 22:53] =>  1:41
    CLOCK: [2018-04-10 Tue 12:02]--[2018-04-10 Tue 13:10] =>  1:08
    CLOCK: [2018-04-09 Mon 13:24]--[2018-04-09 Mon 14:04] =>  0:40
@@ -332,14 +333,15 @@
    :END:
    - [ ] Lab (Wednesday)
    - [ ] Programming Assignment 3 (Wednesday)
-** STAT 3021 [/]
+** STAT 3021 [1/1]
    :LOGBOOK:
+   CLOCK: [2018-04-11 Wed 10:11]--[2018-04-11 Wed 10:48] =>  0:37
    CLOCK: [2018-04-11 Wed 00:27]--[2018-04-11 Wed 00:56] =>  0:29
    CLOCK: [2018-04-10 Tue 21:01]--[2018-04-10 Tue 21:11] =>  0:10
    CLOCK: [2018-04-10 Tue 18:47]--[2018-04-10 Tue 19:13] =>  0:26
    CLOCK: [2018-04-10 Tue 13:42]--[2018-04-10 Tue 14:00] =>  0:18
    :END:
-   - [ ] Quiz (Wednesday)
+   - [X] Quiz (Wednesday)
 ** MUS  1013 [1/1]
    :LOGBOOK:
    CLOCK: [2018-04-07 Sat 19:49]--[2018-04-07 Sat 20:10] =>  0:21
