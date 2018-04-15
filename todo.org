@@ -294,8 +294,9 @@
    :END:
    - [X] Response
 * Week of Apr 09 ->
-** CSCI 2041 (TA) [3/5]
+** CSCI 2041 (TA) [5/5]
    :LOGBOOK:
+   CLOCK: [2018-04-12 Thu 22:38]--[2018-04-12 Thu 23:42] =>  1:04
    CLOCK: [2018-04-09 Mon 17:12]--[2018-04-09 Mon 17:52] =>  0:40
    CLOCK: [2018-04-09 Mon 14:11]--[2018-04-09 Mon 14:35] =>  0:24
    CLOCK: [2018-04-07 Sat 15:17]--[2018-04-07 Sat 16:17] =>  1:00
@@ -304,9 +305,9 @@
    - [X] Grade Hwk_05
    - [X] Lab (Tuesday)
    - [X] Meeting (Wednesday)
-   - [ ] Grade Quiz (Friday)
-   - [ ] Office Hour (Friday)
-** CSCI 3081W [1/2]
+   - [X] Grade Quiz (Friday)
+   - [X] Office Hour (Friday)
+** CSCI 3081W [2/2]
    :LOGBOOK:
    CLOCK: [2018-04-10 Tue 10:11]--[2018-04-10 Tue 10:44] =>  0:33
    CLOCK: [2018-04-09 Mon 22:25]--[2018-04-10 Tue 00:25] =>  2:00
@@ -321,9 +322,12 @@
    CLOCK: [2018-04-07 Sat 19:12]--[2018-04-07 Sat 19:48] =>  0:36
    :END:
    - [X] Iteration 2 Documentation and Code Implementation (Tuesday 11:55 pm)
-   - [ ] Quiz
-** CSCI 4061 [/]
+   - [X] Quiz (Friday)
+** CSCI 4061 [2/2]
    :LOGBOOK:
+   CLOCK: [2018-04-12 Thu 20:32]--[2018-04-12 Thu 21:33] =>  1:01
+   CLOCK: [2018-04-12 Thu 16:44]--[2018-04-12 Thu 17:30] =>  0:46
+   CLOCK: [2018-04-11 Wed 22:34]--[2018-04-12 Thu 00:36] =>  2:02
    CLOCK: [2018-04-11 Wed 13:31]--[2018-04-11 Wed 15:15] =>  1:44
    CLOCK: [2018-04-10 Tue 21:12]--[2018-04-10 Tue 22:53] =>  1:41
    CLOCK: [2018-04-10 Tue 12:02]--[2018-04-10 Tue 13:10] =>  1:08
@@ -331,8 +335,8 @@
    CLOCK: [2018-04-08 Sun 22:27]--[2018-04-08 Sun 23:52] =>  1:25
    CLOCK: [2018-04-08 Sun 20:33]--[2018-04-08 Sun 21:31] =>  0:58
    :END:
-   - [ ] Lab (Wednesday)
-   - [ ] Programming Assignment 3 (Wednesday)
+   - [X] Lab (Wednesday)
+   - [X] Programming Assignment 3 (Wednesday)
 ** STAT 3021 [1/1]
    :LOGBOOK:
    CLOCK: [2018-04-11 Wed 10:11]--[2018-04-11 Wed 10:48] =>  0:37
@@ -355,12 +359,17 @@
    - [ ] Grade Quiz (Friday)
    - [ ] Office Hour (Friday)
 ** CSCI 3081W [0/3]
-   - [ ] Lab (Monday)
+   - [ ] Lab (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab
    - [ ] Midterm (Tuesday)
 ** MUS  1013 [/]
+   :LOGBOOK:
+   CLOCK: [2018-04-14 Sat 23:30]--[2018-04-15 Sun 00:29] =>  0:59
+   CLOCK: [2018-04-14 Sat 22:08]--[2018-04-14 Sat 22:21] =>  0:13
+   CLOCK: [2018-04-14 Sat 20:37]--[2018-04-14 Sat 21:14] =>  0:37
+   :END:
    - [ ] Paper 3 (Monday)
 * Week of Apr 23 ->
 ** CSCI 2041 (TA) [0/3]
@@ -382,7 +391,6 @@
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
    - [ ] Meeting
-   - [ ] Pass out quiz
    - [ ] Office Hour
 ** CSCI 3081W [0/3]
    - [ ] Lab
@@ -396,8 +404,6 @@
    - [ ] Exam (Friday)
 * Week of May 07 ->
 ** CSCI 2041 (TA) [0/3]
-   - [ ] Lab
-   - [ ] Meeting
    - [ ] Final Exam (Tuesday 10:30 am)
    - [ ] Final Exam (Wednesday 10:30 am)
 ** CSCI 4061 [/]
