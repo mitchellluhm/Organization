@@ -354,15 +354,24 @@
 * Week of Apr 16 ->
 ** Registration Fall 2018 April 18th
 ** CSCI 2041 (TA) [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-16 Mon 22:08]--[2018-04-16 Mon 23:19] =>  1:11
+   CLOCK: [2018-04-16 Mon 17:03]--[2018-04-16 Mon 17:27] =>  0:24
+   :END:
    - [ ] Lab (Tuesday)
    - [ ] Meeting (Wednesday)
    - [ ] Grade Quiz (Friday)
    - [ ] Office Hour (Friday)
 ** CSCI 3081W [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-16 Mon 16:28]--[2018-04-16 Mon 17:03] =>  0:35
+   :END:
    - [ ] Lab (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
    :LOGBOOK:
+   CLOCK: [2018-04-16 Mon 18:52]--[2018-04-16 Mon 20:13] =>  1:21
+   CLOCK: [2018-04-16 Mon 14:13]--[2018-04-16 Mon 15:49] =>  1:36
    CLOCK: [2018-04-15 Sun 18:40]--[2018-04-15 Sun 19:46] =>  1:06
    CLOCK: [2018-04-15 Sun 17:03]--[2018-04-15 Sun 17:21] =>  0:18
    CLOCK: [2018-04-15 Sun 14:40]--[2018-04-15 Sun 15:09] =>  0:29
@@ -389,7 +398,8 @@
    - [ ] Iteration 3 Preliminary Code Tests (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] Lab (Wednesda)
+   - [ ] Lab (Wednesday)
+   - [ ] Programming Assignment 4 (Friday)
 ** STAT 3021 [/]
    - [ ] Quiz (Wednesday)
 ** MUS  1013 [/]
