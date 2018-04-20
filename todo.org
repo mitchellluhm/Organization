@@ -355,6 +355,7 @@
 ** PES Plan April 20th
 ** CSCI 2041 (TA) [2/4]
    :LOGBOOK:
+   CLOCK: [2018-04-19 Thu 13:05]--[2018-04-19 Thu 13:43] =>  0:38
    CLOCK: [2018-04-17 Tue 14:00]--[2018-04-17 Tue 14:24] =>  0:24
    CLOCK: [2018-04-17 Tue 07:34]--[2018-04-17 Tue 08:40] =>  1:06
    CLOCK: [2018-04-16 Mon 22:08]--[2018-04-16 Mon 23:19] =>  1:11
@@ -372,7 +373,7 @@
    :END:
    - [X] Lab (Tuesday)
    - [ ] Quiz (Thursday)
-** CSCI 4061 [1/2]
+** CSCI 4061 [2/2]
    :LOGBOOK:
    CLOCK: [2018-04-18 Wed 16:30]--[2018-04-18 Wed 16:57] =>  0:27
    CLOCK: [2018-04-17 Tue 09:19]--[2018-04-17 Tue 09:42] =>  0:23
@@ -383,7 +384,7 @@
    CLOCK: [2018-04-15 Sun 17:03]--[2018-04-15 Sun 17:21] =>  0:18
    CLOCK: [2018-04-15 Sun 14:40]--[2018-04-15 Sun 15:09] =>  0:29
    :END:
-   - [ ] Lab (Wednesday)
+   - [X] Lab (Wednesday)
    - [X] Midterm (Tuesday)
 ** MUS  1013 [1/1]
    :LOGBOOK:
