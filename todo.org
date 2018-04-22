@@ -354,26 +354,29 @@
 * Week of Apr 16 ->
 ** Registration Fall 2018 April 18th
 ** PES Plan April 20th
-** CSCI 2041 (TA) [1/4]
+** CSCI 2041 (TA) [4/4]
    :LOGBOOK:
+   CLOCK: [2018-04-20 Fri 13:15]--[2018-04-20 Fri 14:08] =>  0:53
+   CLOCK: [2018-04-20 Fri 11:57]--[2018-04-20 Fri 12:27] =>  0:30
+   CLOCK: [2018-04-20 Fri 11:18]--[2018-04-20 Fri 11:47] =>  0:29
    CLOCK: [2018-04-17 Tue 14:00]--[2018-04-17 Tue 14:24] =>  0:24
    CLOCK: [2018-04-17 Tue 07:34]--[2018-04-17 Tue 08:40] =>  1:06
    CLOCK: [2018-04-16 Mon 22:08]--[2018-04-16 Mon 23:19] =>  1:11
    CLOCK: [2018-04-16 Mon 17:03]--[2018-04-16 Mon 17:27] =>  0:24
    :END:
    - [X] Lab (Tuesday)
-   - [ ] Meeting (Wednesday)
-   - [ ] Grade Quiz (Friday)
-   - [ ] Office Hour (Friday)
-** CSCI 3081W [1/2]
+   - [X] Meeting (Wednesday)
+   - [X] Grade Quiz (Friday)
+   - [X] Office Hour (Friday)
+** CSCI 3081W [2/2]
    :LOGBOOK:
    CLOCK: [2018-04-17 Tue 17:58]--[2018-04-17 Tue 18:29] =>  0:31
    CLOCK: [2018-04-17 Tue 09:50]--[2018-04-17 Tue 10:28] =>  0:38
    CLOCK: [2018-04-16 Mon 16:28]--[2018-04-16 Mon 17:03] =>  0:35
    :END:
    - [X] Lab (Tuesday)
-   - [ ] Quiz
-** CSCI 4061 [1/2]
+   - [X] Quiz
+** CSCI 4061 [2/2]
    :LOGBOOK:
    CLOCK: [2018-04-17 Tue 09:19]--[2018-04-17 Tue 09:42] =>  0:23
    CLOCK: [2018-04-17 Tue 08:56]--[2018-04-17 Tue 09:05] =>  0:09
@@ -383,7 +386,7 @@
    CLOCK: [2018-04-15 Sun 17:03]--[2018-04-15 Sun 17:21] =>  0:18
    CLOCK: [2018-04-15 Sun 14:40]--[2018-04-15 Sun 15:09] =>  0:29
    :END:
-   - [ ] Lab
+   - [X] Lab
    - [X] Midterm (Tuesday)
 ** MUS  1013 [1/1]
    :LOGBOOK:
@@ -395,22 +398,31 @@
    :END:
    - [X] Paper 3 (Monday)
 * Week of Apr 23 ->
-** CSCI 2041 (TA) [0/3]
+  :LOGBOOK:
+  CLOCK: [2018-04-22 Sun 13:35]--[2018-04-22 Sun 14:53] =>  1:18
+  :END:
+** CSCI 2041 (TA) [1/5]
    - [ ] Lab
    - [ ] Meeting
+   - [X] Grade Homework 7
    - [ ] Pass out quiz (Friday 4:05 pm)
    - [ ] Office Hour
-** CSCI 3081W [0/3]
-   - [ ] Lab
-   - [ ] Iteration 3 Preliminary Code Tests (Tuesday)
+** CSCI 3081W [1/2]
+   :LOGBOOK:
+   CLOCK: [2018-04-22 Sun 15:52]--[2018-04-22 Sun 17:05] =>  1:13
+   :END:
+   - [X] Iteration 3 Preliminary Code Tests (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
    - [ ] Lab (Wednesday)
    - [ ] Programming Assignment 4 (Friday)
 ** STAT 3021 [/]
+   :LOGBOOK:
+   CLOCK: [2018-04-22 Sun 17:05]--[2018-04-22 Sun 17:20] =>  0:15
+   :END:
    - [ ] Quiz (Wednesday)
-** MUS  1013 [/]
-   - [ ] Response (Monday)
+** MUS  1013 [1/1]
+   - [X] Response (Monday)
 * Week of Apr 30 ->
 ** CSCI 2041 (TA) [0/3]
    - [ ] Lab
