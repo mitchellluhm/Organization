@@ -402,6 +402,8 @@
 * Week of Apr 23 ->
 ** CSCI 2041 (TA) [1/5]
   :LOGBOOK:
+  CLOCK: [2018-04-23 Mon 21:45]--[2018-04-23 Mon 21:57] =>  0:12
+  CLOCK: [2018-04-23 Mon 14:15]--[2018-04-23 Mon 18:31] =>  4:16
   CLOCK: [2018-04-22 Sun 13:35]--[2018-04-22 Sun 14:53] =>  1:18
   :END:
    - [ ] Lab
@@ -415,9 +417,8 @@
    :END:
    - [X] Iteration 3 Preliminary Code Tests (Tuesday)
    - [ ] Quiz
-** CSCI 4061 [/]
-   - [ ] Lab (Wednesday)
-   - [ ] Programming Assignment 4 (Friday)
+** CSCI 4061 [1/2]
+   - [X] Lab (Wednesday)
 ** STAT 3021 [/]
    :LOGBOOK:
    CLOCK: [2018-04-22 Sun 17:05]--[2018-04-22 Sun 17:20] =>  0:15
@@ -435,9 +436,8 @@
    - [ ] Iteration 3 Final Code Submission (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [/]
-   - [ ] Lab
-** STAT 3021 [/]
-   - [ ] Practical Assignment Part 3 (Wednesday)
+   - [ ] Programming Assignment 4 (Monday)
+   - [ ] Lab (Wednesday)
 ** MUS  1013 [/]
    - [ ] Exam (Wednesday)
    - [ ] Exam (Friday)
@@ -448,5 +448,5 @@
 ** CSCI 4061 [/]
    - [ ] Final Exam (Tuesday 8:00-10:00 am)
 ** STAT 3021 [/]
+   - [ ] Practical Assignment Part 3 (Wednesday)
    - [ ] Final Exam (Thursday 4:00-6:00 pm)
-* Week of May 14 ->
