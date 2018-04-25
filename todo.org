@@ -400,14 +400,15 @@
    :END:
    - [X] Paper 3 (Monday)
 * Week of Apr 23 ->
-** CSCI 2041 (TA) [1/5]
+** CSCI 2041 (TA) [3/5]
   :LOGBOOK:
+  CLOCK: [2018-04-24 Tue 15:27]--[2018-04-24 Tue 16:25] =>  0:58
   CLOCK: [2018-04-23 Mon 21:45]--[2018-04-23 Mon 21:57] =>  0:12
   CLOCK: [2018-04-23 Mon 14:15]--[2018-04-23 Mon 18:31] =>  4:16
   CLOCK: [2018-04-22 Sun 13:35]--[2018-04-22 Sun 14:53] =>  1:18
   :END:
-   - [ ] Lab
-   - [ ] Meeting
+   - [X] Lab
+   - [X] Meeting
    - [X] Grade Homework 7
    - [ ] Pass out quiz (Friday 4:05 pm)
    - [ ] Office Hour
@@ -418,13 +419,19 @@
    - [X] Iteration 3 Preliminary Code Tests (Tuesday)
    - [ ] Quiz
 ** CSCI 4061 [1/2]
-   - [X] Lab (Wednesday)
-** STAT 3021 [/]
    :LOGBOOK:
+   CLOCK: [2018-04-25 Wed 14:52]--[2018-04-25 Wed 15:19] =>  0:27
+   CLOCK: [2018-04-24 Tue 17:57]--[2018-04-24 Tue 20:36] =>  2:39
+   :END:
+   - [X] Lab (Wednesday)
+** STAT 3021 [1/1]
+   :LOGBOOK:
+   CLOCK: [2018-04-25 Wed 09:54]--[2018-04-25 Wed 10:55] =>  1:01
+   CLOCK: [2018-04-24 Tue 12:47]--[2018-04-24 Tue 13:57] =>  1:10
    CLOCK: [2018-04-22 Sun 17:05]--[2018-04-22 Sun 17:20] =>  0:15
    CLOCK: [2018-04-18 Wed 17:51]--[2018-04-18 Wed 17:59] =>  0:08
    :END:
-   - [ ] Quiz (Wednesday)
+   - [X] Quiz (Wednesday)
 ** MUS  1013 [1/1]
    - [X] Response (Monday)
 * Week of Apr 30 ->
