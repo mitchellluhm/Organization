@@ -415,6 +415,8 @@
    - [ ] Office Hour
 ** CSCI 3081W [1/2]
    :LOGBOOK:
+   CLOCK: [2018-04-25 Wed 18:50]--[2018-04-25 Wed 18:56] =>  0:06
+   CLOCK: [2018-04-25 Wed 16:48]--[2018-04-25 Wed 18:40] =>  1:52
    CLOCK: [2018-04-22 Sun 15:52]--[2018-04-22 Sun 17:05] =>  1:13
    :END:
    - [X] Iteration 3 Preliminary Code Tests (Tuesday)
