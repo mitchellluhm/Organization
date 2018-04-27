@@ -413,16 +413,17 @@
    - [X] Grade Homework 7
    - [ ] Pass out quiz (Friday 4:05 pm)
    - [ ] Office Hour
-** CSCI 3081W [1/2]
+** CSCI 3081W [1/1]
    :LOGBOOK:
+   CLOCK: [2018-04-26 Thu 12:54]--[2018-04-26 Thu 14:08] =>  1:14
    CLOCK: [2018-04-25 Wed 18:50]--[2018-04-25 Wed 18:56] =>  0:06
    CLOCK: [2018-04-25 Wed 16:48]--[2018-04-25 Wed 18:40] =>  1:52
    CLOCK: [2018-04-22 Sun 15:52]--[2018-04-22 Sun 17:05] =>  1:13
    :END:
    - [X] Iteration 3 Preliminary Code Tests (Tuesday)
-   - [ ] Quiz
 ** CSCI 4061 [1/2]
    :LOGBOOK:
+   CLOCK: [2018-04-26 Thu 16:02]--[2018-04-26 Thu 21:09] =>  5:07
    CLOCK: [2018-04-25 Wed 14:52]--[2018-04-25 Wed 15:19] =>  0:27
    CLOCK: [2018-04-24 Tue 17:57]--[2018-04-24 Tue 20:36] =>  2:39
    :END:
@@ -444,7 +445,7 @@
    - [ ] Office Hour (Friday)
 ** CSCI 3081W [0/3]
    - [ ] Iteration 3 Final Code Submission (Tuesday)
-   - [ ] Quiz
+   - [ ] Quiz (Thursday)
 ** CSCI 4061 [/]
    - [ ] Programming Assignment 4 (Monday)
    - [ ] Lab (Wednesday)
