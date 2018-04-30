@@ -423,7 +423,7 @@
    CLOCK: [2018-04-22 Sun 15:52]--[2018-04-22 Sun 17:05] =>  1:13
    :END:
    - [X] Iteration 3 Preliminary Code Tests (Tuesday)
-** CSCI 4061 [1/2]
+** CSCI 4061 [1/1]
    :LOGBOOK:
    CLOCK: [2018-04-26 Thu 16:02]--[2018-04-26 Thu 21:09] =>  5:07
    CLOCK: [2018-04-25 Wed 14:52]--[2018-04-25 Wed 15:19] =>  0:27
@@ -446,10 +446,17 @@
    - [ ] Meeting (Wednesday)
    - [ ] Office Hour (Friday)
 ** CSCI 3081W [0/3]
+   :LOGBOOK:
+   CLOCK: [2018-04-29 Sun 19:37]--[2018-04-29 Sun 19:57] =>  0:20
+   CLOCK: [2018-04-29 Sun 18:46]--[2018-04-29 Sun 19:11] =>  0:25
+   :END:
    - [ ] Iteration 3 Final Code Submission (Tuesday)
    - [ ] Quiz (Thursday)
 ** CSCI 4061 [/]
    :LOGBOOK:
+   CLOCK: [2018-04-29 Sun 21:19]--[2018-04-29 Sun 22:04] =>  0:45
+   CLOCK: [2018-04-29 Sun 20:02]--[2018-04-29 Sun 20:16] =>  0:14
+   CLOCK: [2018-04-29 Sun 13:29]--[2018-04-29 Sun 17:34] =>  4:05
    CLOCK: [2018-04-28 Sat 14:23]--[2018-04-28 Sat 20:04] =>  5:41
    :END:
    - [ ] Programming Assignment 4 (Monday)
