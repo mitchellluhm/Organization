@@ -441,11 +441,15 @@
 ** MUS  1013 [1/1]
    - [X] Response (Monday)
 * Week of Apr 30 ->
-** CSCI 2041 (TA) [2/3]
+** CSCI 2041 (TA) [4/4]
+   :LOGBOOK:
+   CLOCK: [2018-05-04 Fri 14:28]--[2018-05-04 Fri 16:01] =>  1:33
+   :END:
    - [X] Lab (Tuesday)
    - [X] Meeting (Wednesday)
-   - [ ] Office Hour (Friday)
-** CSCI 3081W [0/2]
+   - [X] Office Hour (Friday)
+   - [X] Grade Homework 8 (Sunday)
+** CSCI 3081W [2/2]
    :LOGBOOK:
    CLOCK: [2018-05-02 Wed 19:42]--[2018-05-02 Wed 20:15] =>  0:33
    CLOCK: [2018-05-02 Wed 17:42]--[2018-05-02 Wed 19:34] =>  1:52
@@ -453,8 +457,8 @@
    CLOCK: [2018-04-29 Sun 19:37]--[2018-04-29 Sun 19:57] =>  0:20
    CLOCK: [2018-04-29 Sun 18:46]--[2018-04-29 Sun 19:11] =>  0:25
    :END:
-   - [ ] Iteration 3 Final Code Submission (Thursday)
-   - [ ] Quiz (Thursday)
+   - [X] Iteration 3 Final Code Submission (Thursday)
+   - [X] Quiz (Thursday)
 ** CSCI 4061 [2/2]
    :LOGBOOK:
    CLOCK: [2018-04-29 Sun 21:19]--[2018-04-29 Sun 22:04] =>  0:45
@@ -464,15 +468,23 @@
    :END:
    - [X] Programming Assignment 4 (Monday)
    - [X] Lab (Wednesday)
-** MUS  1013 [0/2]
-   - [ ] Exam (Wednesday)
-   - [ ] Exam (Friday)
+** MUS  1013 [2/2]
+   :LOGBOOK:
+   CLOCK: [2018-05-04 Fri 12:49]--[2018-05-04 Fri 12:58] =>  0:09
+   :END:
+   - [X] Exam (Wednesday)
+   - [X] Exam (Friday)
 * Week of May 07 ->
 ** CSCI 2041 (TA) [0/1]
    - [ ] Final Exam Grading (Tuesday 12:30 pm)
 ** CSCI 4061 [0/1]
    - [ ] Final Exam (Tuesday 8:00-10:00 am)
 ** STAT 3021 [0/2]
+   :LOGBOOK:
+   CLOCK: [2018-05-05 Sat 16:18]--[2018-05-05 Sat 16:51] =>  0:33
+   CLOCK: [2018-05-05 Sat 15:26]--[2018-05-05 Sat 16:00] =>  0:34
+   CLOCK: [2018-05-05 Sat 13:20]--[2018-05-05 Sat 14:40] =>  1:20
+   :END:
    - [ ] Practical Assignment Part 3 (Wednesday 10:00 pm)
    - [ ] Final Exam (Thursday 4:00-6:00 pm)
      
