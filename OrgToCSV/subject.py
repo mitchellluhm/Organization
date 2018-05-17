@@ -4,7 +4,7 @@
 # Represent a Subject in an .org file
 #
 # Subject Class:
-#               - name                               : STRING
+#               - name                               : string
 #               - total duration studied             : number
 #               - total times studied in general     : number
 #               - total times studied by day of week : number list

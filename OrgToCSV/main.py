@@ -14,8 +14,11 @@
 ###############################################################################
 
 import subject
+import date
 
 subjects = []
+
+dates = []
 
 
 # ** CSCI 1001 [/] -> CSCI 1001
@@ -93,4 +96,18 @@ for sub in subjects:
     print("Subject: " + sub.get_name())
     print("Total time spent studying (hours): " + str(sub.get_duration() / 60))
     print("Times studied: " + str(sub.get_times_studied()))
+    print("\tHours studied on Mondays "
+          + str(sub.get_duration_by_day()[0] / 60))
+    print("\tHours studied on Tuesdays "
+          + str(sub.get_duration_by_day()[1] / 60))
+    print("\tHours studied on Wednesdays "
+          + str(sub.get_duration_by_day()[2] / 60))
+    print("\tHours studied on Thursdays "
+          + str(sub.get_duration_by_day()[3] / 60))
+    print("\tHours studied on Fridays "
+          + str(sub.get_duration_by_day()[4] / 60))
+    print("\tHours studied on Saturdays "
+          + str(sub.get_duration_by_day()[5] / 60))
+    print("\tHours studied on Sundays "
+          + str(sub.get_duration_by_day()[6] / 60))
     print("")
