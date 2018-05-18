@@ -14,20 +14,38 @@
 
 class Date:
 
+    def get_full_date(self):
+        return self.full_date
+
     def get_full_date_by_string(self, clock_str):
-        return clock_str[11:21]
+        i = str.find(clock_str, "[")
+        s = i + 1
+        e = s + 10
+        return clock_str[s:e]
 
     def get_year_by_string(self, clock_str):
-        return int(clock_str[11:15])
+        i = str.find(clock_str, "[")
+        s = i + 1
+        e = s + 4
+        return int(clock_str[s:e])
 
     def get_month_by_string(self, clock_str):
-        return int(clock_str[16:18])
+        i = str.find(clock_str, "[")
+        s = i + 1
+        e = s + 2
+        return int(clock_str[s:e])
 
     def get_day_of_month_by_string(self, clock_str):
-        return int(clock_str[19:21])
+        i = str.find(clock_str, "[")
+        s = i + 1
+        e = s + 2
+        return int(clock_str[s:e])
 
     def get_day_of_week_by_string(self, clock_str):
-        return clock_str[22:25]
+        i = str.find(clock_str, "[")
+        s = i + 1
+        e = s + 3
+        return clock_str[s:e]
 
     def get_duration_studied_by_string(self, clock_str):
         dur_start = str.find(clock_str, "=> ") + 4
@@ -35,6 +53,9 @@ class Date:
         hour = int(dur_str[0])
         mins = int(dur_str[2:])
         return (hour * 60) + mins
+
+    def get_duration_studied(self):
+        return self.duration_studied
 
     def increment_duration_by(self, dur):
         self.duration_studied += dur

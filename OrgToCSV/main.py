@@ -17,7 +17,6 @@ import subject
 import date
 
 subjects = []
-
 dates = []
 
 
@@ -41,6 +40,16 @@ def get_or_create_subject(name):
     new_subject = subject.Subject(name)
     subjects.append(new_subject)
     return new_subject
+
+
+def get_or_create_date(clock_str):
+    full_date_of_input = clock_str[11:21]
+    for d in dates:
+        if d.get_full_date() == full_date_of_input:
+            return d
+    new_date = date.Date(clock_str)
+    dates.append(new_date)
+    return new_date
 
 
 def duration_to_minutes(dur):
@@ -75,6 +84,10 @@ while len(line) > 0:
                 subject_obj.increment_duration_day(duration, day_of_week)
                 subject_obj.increment_times_studied_day(day_of_week)
 
+                print("create date with line: " + line)
+                date_obj = get_or_create_date(line)
+                date_obj.increment_duration_by(duration)
+
             # end if
 
             line = f.readline()
@@ -90,8 +103,9 @@ while len(line) > 0:
 f.close()
 
 # print summary
-print("----------------------")
+print("SUBJECT----------------------")
 
+# print subject data
 for sub in subjects:
     print("Subject: " + sub.get_name())
     print("Total time spent studying (hours): " + str(sub.get_duration() / 60))
@@ -111,3 +125,10 @@ for sub in subjects:
     print("\tHours studied on Sundays "
           + str(sub.get_duration_by_day()[6] / 60))
     print("")
+
+print("DATE-------------------------")
+
+# print date data
+for d in dates:
+    print("Date: " + d.get_full_date())
+    print("\t Hours studied: " + str(d.get_duration_studied() / 60))
