@@ -499,7 +499,6 @@
    :END:
    - [X] Practical Assignment Part 3 (Wednesday 10:00 pm)
    - [X] Final Exam (Thursday 4:00-6:00 pm)
-     
 * Week of May 14 ->
 ** OrgToCSV
    :LOGBOOK:
@@ -507,3 +506,8 @@
    CLOCK: [2018-05-17 Thu 15:35]--[2018-05-17 Thu 16:23] =>  0:48
    :END:
 * Week of May 21 ->
+** CI 1124
+   :LOGBOOK:
+   CLOCK: [2018-05-21 Mon 13:10]--[2018-05-21 Mon 14:26] =>  1:16
+   :END:
+   - [ ] Read Chapter 1 & 2 (Funny Boy)
