@@ -508,6 +508,7 @@
 * Week of May 21 ->
 ** CI 1124
    :LOGBOOK:
+   CLOCK: [2018-05-21 Mon 20:09]--[2018-05-21 Mon 22:18] =>  2:09
    CLOCK: [2018-05-21 Mon 13:10]--[2018-05-21 Mon 14:26] =>  1:16
    :END:
    - [ ] Read Chapter 1 & 2 (Funny Boy)
