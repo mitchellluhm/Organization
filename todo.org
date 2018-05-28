@@ -506,9 +506,15 @@
    CLOCK: [2018-05-17 Thu 15:35]--[2018-05-17 Thu 16:23] =>  0:48
    :END:
 * Week of May 21 ->
-** CI 1124
+** CI 1124 [3/3]
    :LOGBOOK:
+   CLOCK: [2018-05-23 Wed 13:14]--[2018-05-23 Wed 14:43] =>  1:29
+   CLOCK: [2018-05-22 Tue 19:50]--[2018-05-22 Tue 20:28] =>  0:38
+   CLOCK: [2018-05-22 Tue 12:43]--[2018-05-22 Tue 13:43] =>  1:00
    CLOCK: [2018-05-21 Mon 20:09]--[2018-05-21 Mon 22:18] =>  2:09
    CLOCK: [2018-05-21 Mon 13:10]--[2018-05-21 Mon 14:26] =>  1:16
    :END:
-   - [ ] Read Chapter 1 & 2 (Funny Boy)
+   - [X] Read Chapter 1 & 2 (Funny Boy)
+   - [X] Read Chapter 3
+   - [X] Read Chapter 4
+    
