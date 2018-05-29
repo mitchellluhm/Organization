@@ -517,4 +517,14 @@
    - [X] Read Chapter 1 & 2 (Funny Boy)
    - [X] Read Chapter 3
    - [X] Read Chapter 4
-    
+* Week of May 28 ->
+** CI 1124 [1/2]
+   :LOGBOOK:
+   CLOCK: [2018-05-28 Mon 19:51]--[2018-05-28 Mon 20:08] =>  0:17
+   CLOCK: [2018-05-28 Mon 18:42]--[2018-05-28 Mon 19:07] =>  0:25
+   CLOCK: [2018-05-28 Mon 16:31]--[2018-05-28 Mon 17:38] =>  1:07
+   CLOCK: [2018-05-28 Mon 15:25]--[2018-05-28 Mon 16:06] =>  0:41
+   CLOCK: [2018-05-28 Mon 13:07]--[2018-05-28 Mon 13:20] =>  0:13
+   :END:
+   - [X] Read Chapter 5
+   - [ ] Read Chapter 6
