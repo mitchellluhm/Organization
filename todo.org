@@ -518,8 +518,12 @@
    - [X] Read Chapter 3
    - [X] Read Chapter 4
 * Week of May 28 ->
-** CI 1124 [1/2]
+** CI 1124 [3/4]
    :LOGBOOK:
+   CLOCK: [2018-05-30 Wed 18:03]--[2018-05-30 Wed 18:14] =>  0:11
+   CLOCK: [2018-05-30 Wed 16:42]--[2018-05-30 Wed 16:57] =>  0:15
+   CLOCK: [2018-05-30 Wed 15:09]--[2018-05-30 Wed 15:53] =>  0:44
+   CLOCK: [2018-05-29 Tue 12:46]--[2018-05-29 Tue 13:03] =>  0:17
    CLOCK: [2018-05-28 Mon 19:51]--[2018-05-28 Mon 20:08] =>  0:17
    CLOCK: [2018-05-28 Mon 18:42]--[2018-05-28 Mon 19:07] =>  0:25
    CLOCK: [2018-05-28 Mon 16:31]--[2018-05-28 Mon 17:38] =>  1:07
@@ -527,4 +531,17 @@
    CLOCK: [2018-05-28 Mon 13:07]--[2018-05-28 Mon 13:20] =>  0:13
    :END:
    - [X] Read Chapter 5
-   - [ ] Read Chapter 6
+   - [X] Read Chapter 6
+   - [X] Read First Half
+   - [ ] Read Second Half
+   - [ ] Midterm
+* Week of June 4 ->
+** CI 1124 [/]
+   - [ ] Page 1-41
+   - [ ] Page 42-89
+   - [ ] Page 90-137
+   - [ ] Page 138-178
+   - [ ] Final
+* Week of June 11 ->
+* Week of June 18 ->
+* Week of June 25 ->
