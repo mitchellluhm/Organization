@@ -553,6 +553,9 @@
    - [X] Final
 * Week of June 11 ->
 ** CSCI 4707 [/]
+   :LOGBOOK:
+   CLOCK: [2018-06-15 Fri 14:32]--[2018-06-15 Fri 16:01] =>  1:29
+   :END:
 ** Code Chess [/]
    :LOGBOOK:
    CLOCK: [2018-06-12 Tue 14:47]--[2018-06-12 Tue 14:58] =>  0:11
@@ -560,6 +563,7 @@
    :END:
 * Week of June 18 ->
 ** CSCI 4707 [/]
+   - [ ] HW 1
 * Week of June 25 ->
 ** CSCI 4707 [/]
 * Week of July 2 ->
