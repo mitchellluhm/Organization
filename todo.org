@@ -538,7 +538,7 @@
    - [X] Read Second Half
    - [X] Midterm
 * Week of June 4 ->
-** CI 1124 [2/4]
+** CI 1124 [4/4]
    :LOGBOOK:
    CLOCK: [2018-06-04 Mon 13:59]--[2018-06-04 Mon 15:04] =>  1:05
    CLOCK: [2018-06-04 Mon 13:37]--[2018-06-04 Mon 13:49] =>  0:12
@@ -549,8 +549,22 @@
    :END:
    - [X] Page 1-41
    - [X] Page 42-100
-   - [ ] Page 101-178
-   - [ ] Final
+   - [X] Page 101-178
+   - [X] Final
 * Week of June 11 ->
+** CSCI 4707 [/]
+** Code Chess [/]
+   :LOGBOOK:
+   CLOCK: [2018-06-12 Tue 14:47]--[2018-06-12 Tue 14:58] =>  0:11
+   CLOCK: [2018-06-12 Tue 13:10]--[2018-06-12 Tue 14:22] =>  1:12
+   :END:
 * Week of June 18 ->
+** CSCI 4707 [/]
 * Week of June 25 ->
+** CSCI 4707 [/]
+* Week of July 2 ->
+** CSCI 4707 [/]
+* Week of July 9 ->
+** CSCI 4707 [/]
+* Week of July 16 ->
+** CSCI 4707 [/]
